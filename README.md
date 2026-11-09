@@ -16,3 +16,6 @@ Number 7 was an interesting problem solving quesion.
 
 At last question we use async and await which was challenging for me.
 
+[Type vs Interface](type-vs-interface.md)
+[Access Modifiers](access-modifiers.md)
+
